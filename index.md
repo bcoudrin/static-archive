@@ -2,19 +2,19 @@
 # Star Wars : Artisanat
 
 ### Tables spécifiques
-| Table | Livre | Page |
-| --- | --- | --- |
-| [Alchimie : Potions](tables/alch_potions.md) | [Unlimited Power](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF52)%20Unlimited%20Power.pdf#page=84) | 81 |
-| [Alchimie : Talismans](tables/alch_talismans.md) | [Unlimited Power](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF52)%20Unlimited%20Power.pdf#page=87) | 84 |
-| [Armes de corps à corps et de Pugilat](tables/melee.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=80) | 76 |
-| [Armes à distance](tables/ranged.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=82) | 78 |
-| [Armures](tables/armor.md) | [Keeping the Peace](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF24)%20Keeping%20the%20Peace.pdf#page=94) | 90 |
-| [Cybernétique](tables/cyber.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=89) | 85 |
-| [Droides](tables/droid.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=84) | 80 |
-| [Fortifications](tables/fortifications.md) | [Forged in Battle](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Age%20of%20Rebellion/Age%20of%20Rebellion%20-%20%28SWA42%29%20Forged%20in%20Battle.pdf#page=86) | 84 |
-| [Gadgets](tables/gadgets.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=88) | 84 |
-| [Sabres lasers](tables/lightsaber.md) | [Endless Vigil](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF30)%20Endless%20Vigil.pdf#page=87) | 84 |
-| [Véhicules & Vaisseaux](tables/vehicles.md) | [Fully Operational](https://download1590.mediafire.com/4tttof3mhiwg/6b4odeg0xcr428k/Fully+Operational+%28Engineer+Sourcebook%29.pdf#page=81) | 78 |
+Table | Livre | Page
+--- | --- | ---
+[Alchimie : Potions](tables/alch_potions.md) | [Unlimited Power](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF52)%20Unlimited%20Power.pdf#page=84) | 81
+[Alchimie : Talismans](tables/alch_talismans.md) | [Unlimited Power](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF52)%20Unlimited%20Power.pdf#page=87) | 84
+[Armes de corps à corps et de Pugilat](tables/melee.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=80) | 76
+[Armes à distance](tables/ranged.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=82) | 78
+[Armures](tables/armor.md) | [Keeping the Peace](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF24)%20Keeping%20the%20Peace.pdf#page=94) | 90
+[Cybernétique](tables/cyber.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=89) | 85
+[Droides](tables/droid.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=84) | 80
+[Fortifications](tables/fortifications.md) | [Forged in Battle](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Age%20of%20Rebellion/Age%20of%20Rebellion%20-%20%28SWA42%29%20Forged%20in%20Battle.pdf#page=86) | 84
+[Gadgets](tables/gadgets.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=88) | 84
+[Sabres lasers](tables/lightsaber.md) | [Endless Vigil](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF30)%20Endless%20Vigil.pdf#page=87) | 84
+[Véhicules & Vaisseaux](tables/vehicles.md) | [Fully Operational](https://download1590.mediafire.com/4tttof3mhiwg/6b4odeg0xcr428k/Fully+Operational+%28Engineer+Sourcebook%29.pdf#page=81) | 78
 
 ### Règle générale
 #### Etape 1: Séléctionner un modèle
