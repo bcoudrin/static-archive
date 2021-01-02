@@ -2,6 +2,7 @@
 # Star Wars : Artisanat
 
 ### Tables spécifiques
+
 Table | Livre | Page
 --- | --- | ---
 [Alchimie : Potions](tables/alch_potions.md) | [Unlimited Power](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF52)%20Unlimited%20Power.pdf#page=84) | 81
