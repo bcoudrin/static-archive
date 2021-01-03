@@ -9,15 +9,15 @@ Deuxièmement, lorsqu'un personnage tente de réaliser une création alchimique,
 
 | Modèle | Coût en matériaux / Rareté | Test | Temps |
 | --- | --- | --- | --- |
-| Acide | 600 / 6 | Moyen (pp) : Sang-froid ou Culture | 2h |
-| Gorgée de feu | 400 / 5 | Difficile (ppp) : Sang-froid ou Culture | 3h |
-| Elixir de vigueur | 600 / 6 | Difficile (ppp) : Sang-froid ou Culture | 4h |
-| Potion de soin | 1000 / 5 | Moyen (pp) : Sang-froid ou Culture | 2h |
-| Poison | 500 / 4 | Facile (p) : Sang-froid ou Culture | 2h |
-| Potion de volonté | 1000 / 8 | Intimidant (pppp) : Sang-froid ou Culture | 6h |
-| Stimulant | 400 / 4 | Moyen (pp) : Sang-froid ou Culture | 2h |
-| Eau de Vie | 1000 / 10 | Exceptionnel (ppppp) : Sang-froid ou Culture | 8h |
-| Poison affaiblissant | 1000 / 6 | Difficile (ppp) : Sang-froid ou Culture | 4h |
+| Acide | 600 / 6 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| Gorgée de feu | 400 / 5 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 3h |
+| Elixir de vigueur | 600 / 6 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 4h |
+| Potion de soin | 1000 / 5 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| Poison | 500 / 4 | Facile (<img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| Potion de volonté | 1000 / 8 | Intimidant (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 6h |
+| Stimulant | 400 / 4 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| Eau de Vie | 1000 / 10 | Exceptionnel (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 8h |
+| Poison affaiblissant | 1000 / 6 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 4h |
 
 #### Dépenser les <img src="../images/advantage.png" width="16">, <img src="../images/triomphe.png" width="16">, <img src="../images/threat.png" width="16">, <img src="../images/despair.png" width="16">, <img src="../images/light.png" width="16"> et <img src="../images/dark.png" width="16">
 
