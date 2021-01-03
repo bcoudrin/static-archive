@@ -35,6 +35,6 @@ Après avoir obtenu les matériaux, le PJ doit effectuer le test associé (indiq
 
 Il existe également des suggestions de "résultats de dépenses" pour tout <img src="images/advantage.png" width="16">, <img src="images/triomphe.png" width="16">, <img src="images/threat.png" width="16"> et/ou <img src="images/despair.png" width="16"> généré pendant le test. Les artisans peuvent d'abord choisir comment dépenser les <img src="images/advantage.png" width="16"> et les <img src="images/triomphe.png" width="16">, puis le MJ peut dépenser les <img src="images/threat.png" width="16"> et <img src="images/despair.png" width="16"> pour ajouter des défauts. À moins qu'une limite ne soit spécifiée, une option peut être sélectionnée un nombre quelconque de fois, et ses effets se cumulent.
 
-Le temps de construction est déterminé par le temps indiqué dans le modèle. Chaque succès au delà du premier réduit le temps de 2 heures (jusqu'à 1 heure au minimum).
+Le temps de construction est déterminé par le temps indiqué dans le modèle. Chaque <img src="images/succes.png" width="16"> au delà du premier réduit le temps de 2 heures (jusqu'à 1 heure au minimum).
 
 Pour les machines particulièrement complexes, telles que les droïdes, la construction peut nécessiter plusieurs tests. Voir [Droides](tables/droid.md) pour plus de détails.
