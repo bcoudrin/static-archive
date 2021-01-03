@@ -10,15 +10,15 @@ Deuxièmement, lorsqu'un personnage tente de réaliser une création alchimique,
 
 | Modèle | Coût en matériaux / Rareté | Test | Temps |
 | --- | --: | --- | --- |
-| Acide | 600 / 6 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
-| Gorgée de feu | 400 / 5 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 3h |
-| Elixir de vigueur | 600 / 6 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 4h |
-| Potion de soin | 1000 / 5 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
-| Poison | 500 / 4 | Facile (<img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
-| Potion de volonté | 1000 / 8 | Intimidant (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 6h |
-| Stimulant | 400 / 4 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
-| Eau de Vie | 1000 / 10 | Exceptionnel (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 8h |
-| Poison affaiblissant | 1000 / 6 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 4h |
+| [Acide](#acide) | 600 / 6 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| [Gorgée de feu](#gorgée-de-feu) | 400 / 5 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 3h |
+| [Elixir de vigueur](#elixir-de-vigueur) | 600 / 6 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 4h |
+| [Potion de soin](#potion-de-soin) | 1000 / 5 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| [Poison](#) | 500 / 4 | Facile (<img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| [Potion de volonté](#potion-de-volonté) | 1000 / 8 | Intimidant (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 6h |
+| [Stimulant](#stimulant) | 400 / 4 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
+| [Eau de Vie](#eau-de-vie) | 1000 / 10 | Exceptionnel (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 8h |
+| [Poison affaiblissant](#poison-affaiblissant) | 1000 / 6 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 4h |
 
 #### Dépenser les <img src="../images/advantage.png" width="16">, <img src="../images/triomphe.png" width="16">, <img src="../images/threat.png" width="16">, <img src="../images/despair.png" width="16">, <img src="../images/light.png" width="16"> et <img src="../images/dark.png" width="16">
 
@@ -37,11 +37,38 @@ Symboles | Effets
 ### Potions
 
 #### Acide
+Les acides sont des armes dangereuses, même si elles sont imprécises. Bien qu'il existe de nombreux acides industriels et commerciaux sur le marché libre, un acide alchimique est unique car il n'affecte que les tissus vivants.  Il peut donc être appliqué aux armes, voire ajouté aux aliments.
+Lorsqu'elle est touchée par cette potion, la cible doit faire un **test de Résistance Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">)**. En cas d'échec, elle subit deux blessures au début de son tour pour les trois prochains rounds, plus un round additionnel par <img src="../images/threat.png" width="16">.
+
 #### Gorgée de feu
+Ce breuvage est aussi ardent à consommer que son nom l'indique. Mais une fois ingérée, elle se lie à la peau de l'utilisateur pour s'enflammer et avoir un effet mortel sur toute attaque.
+Une fois consommée, le corps de l'utilisateur est recouvert de flammes. Elles ne blessent pas l'utilisateur et celui-ci ignore tout dommage lié au feu ou aux flammes. Les attaques à mains nues obtiennent la qualité Incendiaire 4, ou ajoutent +1 à cette qualité si elle étaut déjà présente. Cet effet dure 1 round, ou 30 minutes en temps narratif. 
+
 #### Elixir de vigueur
+Ce liquide épais et visqueux se lie rapidement aus tissus musculaires, renforçant temporairement l'utilisateur à des niveaux inouïs. Il draine leur force mentale, mais le gain en puissance brute vaut certainement cet inconvénient.
+Lorsque l'utilisateur consomme cette potion, sa Vigueur augmentent de 1 mais sa Volonté est réduite de 1. Cet effet dure jusqu'à la fin du round suivant.
+
 #### Potion de soin
+Cette potion peut prendre la forme d'une pommade malodorante, d'un élixir cristallin ou d'une teinture à la lueur étrange et éthérée. Cependant, l'effet global est le même. D'une manière ou d'une autre, la potion guérit les blessures et redonne la santé à ceux qui la boivent.
+Lorsque l'utilisateur consomme cette potion, il guérit immédiatement une Blessure Critique d'une gravité égale ou inférieure à **Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">). Bien que cette potion puisse guérir la Blessure Critique Mutilation, elle ne peut pas faire repousser le membre perdu.
+
 #### Poison
+Ce poison alchimique n'est pas si différent des neurotoxines mortelles produites pour les assassins et les tueurs à gages à travers la Galaxie.
+Lorsqu'elle est touchée par le poison, la cible doit immédiatement effectuer un **test de Résistance Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">). En cas d'échec, elle subit 5 blessures, plus 1 stress par <img src="../images/threat.png" width="16">.
+
 #### Potion de volonté
+Ce poison doit être absorbé pour avoir un effet quelconque, bien que ces effets soient aussi impressionnants que dérangeants. Il inhibe les facultés mentales de l'utilisateur, le rendant prêt à accepter les ordres de n'importe qui. Cette potion ne peut pas être appliquée sur une arme : elle doit être ingérée.
+Lorsqu'elle est affectée par le poison, la cible doit faire un **test de Sang-Froid Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">)**. En cas d'échec, sa Volonté est comptée à 0 pour le reste de la rencontre (ou une heure en temps narratif). A la discrétion du MJ, elle peut également être prête à suivre toutes les instructions qu'elle reçoit. La durée augmente d'une heure par <img src="../images/threat.png" width="16">.
+
 #### Stimulant
+D'un effet similaire mais infiniment plus puissant qu'une carafe de café chaud, un stimulant alchimique peut maintenir un individu épuisé éveillé et en mouvement pendant des heures. Bien sûr, l'inévitable contre-coup de cette vigilance induite ne fait qu'empirer au fur et à mesure que l'individu se dépasse.
+Lorsque l'utilisateur consomme cette potion, il augmente son seuil de stress de cinq pour le reste de la rencontre (ou une heure en temps de narration) .
+
 #### Eau de Vie
+Créée à partir de ce que les Soeurs de la Nuit de Dathomir appelaient "l'Ichor Spirituel", la soi-disant Eau de Vie est un liquide vert brillant qui peut guérir les blessures, et même ramener à la vie les personnes "pratiquement" mortes.
+Lorsque l'utilisateur consomme cette potion, il soigne tous les points de blessures et de stress qu'il subit actuellement. De plus, si elle est appliquée à une cible qui est morte pendant la rencontre en cours, la cible peut immédiatement faire un **test de Sang-Froid ou de Résistance Formidable (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">)** (même si la cible est morte). En cas de succès, la cible revient à la vie et guérit une Blessure Critique de son choix dont elle souffre.
+L'utilisateur peut également consommer cette potion tout en faisant un test de Force. S'il le fait, il subit 1 Conflit, et il ajoute automatiquement <img src="../images/light.png" width="16"><img src="../images/dark.png" width="16"> aux résultats du test. Si l'utilisateur de la Force tente de faire un test de Conjuration, il ajoute <img src="../images/light.png" width="16"><img src="../images/light.png" width="16"><img src="../images/dark.png" width="16"><img src="../images/dark.png" width="16"> à la place.
+
 #### Poison affaiblissant
+Ce poison ne tue pas la cible, mais il l'affaiblit considérablement. Sous ses effets, les blessures d'une cible saignent librement, et même le plus petit effort les épuise.
+Lorsqu'elle est touchée par la potion, la cible doit immédiatement faire un **test de Résistance Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">)**. En cas d'échec, elle réduit son seuil de blessure et d'effort à la moitié de sa valeur normale (en arrondissant à l'entier supérieur) pour le reste de la rencontre (ou une heure en temps narratif). La durée augmente d'une heure par <img src="../images/threat.png" width="16">.
