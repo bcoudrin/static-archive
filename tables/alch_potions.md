@@ -8,7 +8,7 @@ Deuxièmement, lorsqu'un personnage tente de réaliser une création alchimique,
 #### Modèles de potions alchimiques
 
 | Modèle | Coût en matériaux / Rareté | Test | Temps |
-| --- | --- | --- | --- |
+| --- | --: | --- | --- |
 | Acide | 600 / 6 | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 2h |
 | Gorgée de feu | 400 / 5 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 3h |
 | Elixir de vigueur | 600 / 6 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Sang-froid ou Culture | 4h |
