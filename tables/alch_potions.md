@@ -19,4 +19,8 @@ Deuxièmement, lorsqu'un personnage tente de réaliser une création alchimique,
 | Eau de Vie | 1000 / 10 | Exceptionnel (ppppp) : Sang-froid ou Culture | 8h |
 | Poison affaiblissant | 1000 / 6 | Difficile (ppp) : Sang-froid ou Culture | 4h |
 
-#### Dépenser les <img src="images/advantage.png" width="16">
+#### Dépenser les avantages, triomphes, menaces, désespoirs et points de Force
+
+Symboles | Effets
+--- | ---
+<img src="images/advantage.png" width="16">, <img src="images/triomphe.png" width="16">, <img src="images/light.png" width="16"> | **Fortifiant :** Si la potion a un effet bénéfique, la cible récupère une blessure en la consommant<br/>**Revigorant :** Si la potion a un effet bénéfique, la cible récupère deux points de stress en la consommant<br/>**Drain :** Si la potion a un effet néfaste, la cible subit deux points de stress en la consommant.
