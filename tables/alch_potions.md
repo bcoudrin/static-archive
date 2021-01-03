@@ -1,5 +1,6 @@
 ## Alchimie : Potions
 Unlimited Power, page [81](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF52)%20Unlimited%20Power.pdf#page=84)
+[Retour](..)
 
 Comme les créations alchimiques sont toutes créées avec la Force d'une manière ou d'une autre, il y a quelques règles supplémentaires qui s'appliquent lors de la fabrication de ces objets. Premièrement, seuls les personnages sensibles à la Force peuvent tenter de créer une création alchimique. Toute autre personne qui tente de le faire se retrouve avec un objet ou un liquide qui n'a aucun effet surnaturel, quelle que soit la manière dont elle a suivi les instructions.
 
