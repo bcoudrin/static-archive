@@ -15,7 +15,7 @@ Armure segmentée | (R) 2,500 / 6 | Intimidant (<img src="../images/diff.png" wi
 Armure améliorée | (R) 4,500 / 8 | Exceptionnel (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Mécanique | 120h | +2 encaissement, +2 défense, 6 encombrement, 6 emplacements
 
 
-#### Dépenser les <img src="../images/advantage.png" width="16">, <img src="../images/triomphe.png" width="16">, <img src="../images/threat.png" width="16">, <img src="../images/despair.png" width="16">, <img src="../images/light.png" width="16"> et <img src="../images/dark.png" width="16">
+#### Dépenser les <img src="../images/advantage.png" width="16">, <img src="../images/triomphe.png" width="16">, <img src="../images/threat.png" width="16"> et <img src="../images/despair.png" width="16">
 
 Symboles | Effets
 --- | ---

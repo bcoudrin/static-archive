@@ -8,7 +8,7 @@ Special Modifications, page [84](https://thetrove.is/Books/Star%20Wars%20[multi]
 | --- | --: | --- | --- |
 
 
-#### Dépenser les <img src="../images/advantage.png" width="16">, <img src="../images/triomphe.png" width="16">, <img src="../images/threat.png" width="16">, <img src="../images/despair.png" width="16">, <img src="../images/light.png" width="16"> et <img src="../images/dark.png" width="16">
+#### Dépenser les <img src="../images/advantage.png" width="16">, <img src="../images/triomphe.png" width="16">, <img src="../images/threat.png" width="16"> et <img src="../images/despair.png" width="16">
 
 Symboles | Effets
 --- | ---
