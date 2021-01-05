@@ -14,7 +14,7 @@ Table | Livre | Page
 [Droides](tables/droid.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=84) | 80
 [Fortifications](tables/fortifications.md) | [Forged in Battle](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Age%20of%20Rebellion/Age%20of%20Rebellion%20-%20%28SWA42%29%20Forged%20in%20Battle.pdf#page=86) | 84
 [Gadgets](tables/gadgets.md) | [Special Modifications](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Edge%20of%20the%20Empire/Edge%20of%20the%20Empire%20-%20%28SWE14%29%20Special%20Modifications.pdf#page=88) | 84
-[Sabres lasers](tables/lightsaber.md) | [Endless Vigil](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF30)%20Endless%20Vigil.pdf#page=87) | 84
+[Poignées de Sabres lasers](tables/lightsaber.md) | [Endless Vigil](https://thetrove.is/Books/Star%20Wars%20[multi]/FFG/Force%20and%20Destiny/Force%20and%20Destiny%20-%20(SWF30)%20Endless%20Vigil.pdf#page=87) | 84
 [Véhicules & Vaisseaux](tables/vehicles.md) | [Fully Operational](https://download1590.mediafire.com/4tttof3mhiwg/6b4odeg0xcr428k/Fully+Operational+%28Engineer+Sourcebook%29.pdf#page=81) | 78
 
 ### Règle générale
