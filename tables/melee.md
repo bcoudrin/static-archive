@@ -14,6 +14,7 @@ Vibro-arme | 200 / 3 | Difficile (<img src="../images/diff.png" width="16"><img 
 Arme de corps à corps alimentée | 400 / 4 | Intimidant (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Mécanique | 2j (48h) | Electrobâton, pique de force 
 
 #### Profils
+
 Nom|Compétence|Dom|Crit|Portée|Encom|Empl|Spécial|Manipulation
 ---|---|---|---|---|---|---|---|---
 Arme de poing|Pugilat|+1|4|Au contact|1|0|Désorientation 3|Une main

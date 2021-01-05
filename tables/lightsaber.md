@@ -13,6 +13,7 @@ Sabre laser à double lame | 300 / 5 | Difficile (<img src="../images/diff.png" 
 Hampe laser | 150 / 5 | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Mécanique | 12h | Pique laser, sabre laser à poignée longue
 
 #### Profils
+
 Nom | Encom | Empl | Spécial | Manipulation | Autre
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Poignée de Sabre laser standard | 1 | 5 | | Une main |
@@ -22,6 +23,7 @@ Poignée de Sabre laser à double lame | 2 | 4 | Jumelé 1, Difficile à manier 
 Hampe laser | 2 | 4 | Encombrant 3, Parade 1 | Deux mains | 
 
 ##### Exemples avec un cristal d'Ilum
+
 Nom | Compétence | Dég | Crit | Portée | Encom | Empl | Spécial | Manipulation | Autre
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Sabre laser standard | Sabre laser | 6 | 2 | Au contact | 1 | 5 | Brèche 1, Briseur | Une main | |
