@@ -47,15 +47,15 @@ Si le personnage échoue, la seule chose perdue est le temps du mécanicien.  Le
 
 Symboles | Effets
 --- | ---
-<img src="../images/advantage.png" width="16"> ou <img src="../images/triomphe.png" width="16"> | **La pratique rend parfait :** Le personnage apprend quelque chose de précieux, et gagne `bo` au prochain jet qu'il fait avec la même compétence avant la fin de la session.<br/>**Chassis renforcé :** Augmente le seuil de blessure du droïde de 1.<br/>**Discret :** Le droïde gagne un rang du talent Quelconque (cela ne peut être sélectionné qu'une seule fois).
+<img src="../images/advantage.png" width="16"> ou <img src="../images/triomphe.png" width="16"> | **La pratique rend parfait :** Le personnage apprend quelque chose de précieux, et gagne <img src="../images/boost.png" width="16"> au prochain jet qu'il fait avec la même compétence avant la fin de la session.<br/>**Chassis renforcé :** Augmente le seuil de blessure du droïde de 1.<br/>**Discret :** Le droïde gagne un rang du talent Quelconque (cela ne peut être sélectionné qu'une seule fois).
 <img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"> ou <img src="../images/triomphe.png" width="16"> | **Tirer les enseignements :** Réduit la difficulté du prochain test d'artisanat du personnage par 1.<br/>**Carapace déflective :** Augmente la défense au corps à corps du droïde par 1 (jusqu'à un maximum de 2).<br/>**Profil fin :** Augmente la défense à distance du droide de 1 (jusqu'à un maximum de 2).
 <img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"> ou <img src="../images/triomphe.png" width="16"> | **Blindage :** Augmente l'encaissement du droïde de 1 (cela ne peut être sélectionné qu'une seule fois).<br/>**Taille inhabituelle :** Augmente ou réduit le gabarit du droïde de 1, jusqu'à un minimum de 0 (cela ne peut être sélectionné qu'une seule fois).<br/>**Matériel modulaire :** Choisissez un implant cybernétique. Le droïde est déjà installé de cet implant sans surcoût (cela ne peut être sélectionné qu'une seule fois).
 <img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"> ou <img src="../images/triomphe.png" width="16"> | **Plan de chassis :** Crée un schéma technique qui réduit de façon permanente la difficulté de créer un chassis de droïde sur ce modèle par 1 (jusqu'à un minimum de **Simple [-]**).<br/>**Matériel supérieur :** Augmente une caractéristique du droïde par 1 (jusqu'à un maximum de 6).
 <img src="../images/triomphe.png" width="16"><img src="../images/triomphe.png" width="16"> | **Doppleganger :** Construit un droïde additionnel identique lors de l'opération.
-<img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Effort épuisant :** Après avoir complêté l'étape 3 : Construction, le personnage subit 3 points de stress.<br/>**Matériel spécialisé :** Le doïde subit `sb` aux tests de compétences pour lesquels il ne dispose d'aucun rang.
+<img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Effort épuisant :** Après avoir complêté l'étape 3 : Construction, le personnage subit 3 points de stress.<br/>**Matériel spécialisé :** Le doïde subit <img src="../images/setback.png" width="16"> aux tests de compétences pour lesquels il ne dispose d'aucun rang.
 <img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Difficile à personnaliser :** Augmente la difficulté des tests pour installer de la cybernétique sur ce droïde par 1.
 <img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Usure :** Les outils dont le personnage s'est servi pour fabriquer le doïde sont abîmés ou détruits, et sont endommagés d'un rang (mineur si intact, de mineur à modéré, de modéré à majeur).
-<img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Mécanismes délicats :** Augmente la difficulté des tests pour réparer ce droïde par 1.<br/>**Coeur de puissance erratique :** Une fois par session, le MJ peut dépenser `de` lors d'un test réalisé par le droïde pour faire en sorte qu'il s'éteigne jusqu'à la fin de la rencontre (cela ne peut être sélectionné qu'une seule fois).
+<img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Mécanismes délicats :** Augmente la difficulté des tests pour réparer ce droïde par 1.<br/>**Coeur de puissance erratique :** Une fois par session, le MJ peut dépenser <img src="../images/despair.png" width="16"> lors d'un test réalisé par le droïde pour faire en sorte qu'il s'éteigne jusqu'à la fin de la rencontre (cela ne peut être sélectionné qu'une seule fois).
 <img src="../images/despair.png" width="16"><img src="../images/despair.png" width="16"> | **Coeur de puissance volatile :** Lorsque ce droïde subit une Blessure Critique, ajoute +50 au résultat. Si la Blessure Critique tue le droïde, il explose et chaque personnage au contact subit 10 dommages (cela ne peut être sélectionné qu'une seule fois).
 
 
@@ -65,13 +65,13 @@ Symboles | Effets
 
 Modèle | Test | Temps
 ---|---|---
-[Directives de travail](#directives-de-travail) | Facile (`di`) : Informatique | 8h
-[Directives de combat](#directives-de-combat) | Moyen (`di``di`) : Informatique | 16h
-[Directives de traduction](#directives-de-traduction) | Difficile (`di``di``di`) : Informatique | 1j (24h)
-[Directives de réparation](#directives-de-réparation) | Difficile (`di``di``di`) : Informatique | 1j (24h)
-[Directives de naviguation](#directives-de-naviguation) | Difficile (`di``di``di`) : Informatique | 3j (72h)
-[Directives de soin](#directives-de-soin) | Intimidant (`di``di``di``di`) : Informatique | 3j (72h)
-[Directives d'élimination](#directives-d-élimination) | Exceptionnel (`di``di``di``di``di`) : Informatique | 7j (168h)
+[Directives de travail](#directives-de-travail) | Facile (<img src="../images/diff.png" width="16">) : Informatique | 8h
+[Directives de combat](#directives-de-combat) | Moyen (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Informatique | 16h
+[Directives de traduction](#directives-de-traduction) | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Informatique | 1j (24h)
+[Directives de réparation](#directives-de-réparation) | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Informatique | 1j (24h)
+[Directives de naviguation](#directives-de-naviguation) | Difficile (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Informatique | 3j (72h)
+[Directives de soin](#directives-de-soin) | Intimidant (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Informatique | 3j (72h)
+[Directives d'élimination](#directives-d-élimination) | Exceptionnel (<img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16"><img src="../images/diff.png" width="16">) : Informatique | 7j (168h)
 
 #### Directives de travail
 De nombreux droïdes sont programmés pour accomplir une tâche unique, avec juste assez de protocoles d'interaction pour se débrouiller dans les autres circonstances. De tels droïdes tendent à avoir une bien pauvre conversation, puisqu'ils sont généralement obsédés par leur seul domaine d'expertise.
@@ -90,21 +90,21 @@ Les droïdes traducteurs, en particulier ceux qui sont spécialisés dans l'éti
 
 **Compétences :** 1 rang dans trois différentes compétences de Connaissance, Charme 1. Si le droïde est un sbire, ajoutez ces compétences à ses compétences de groupe à la place.
 
-**Talents :** Persuasion 1 (Retire `sb` des tests de Magouilles et Tromperie), Irrésistible 1 (Retire `sb` des tests de Charme et de Commandement). 
+**Talents :** Persuasion 1 (Retire <img src="../images/setback.png" width="16"> des tests de Magouilles et Tromperie), Irrésistible 1 (Retire <img src="../images/setback.png" width="16"> des tests de Charme et de Commandement). 
 
 #### Directives de réparation
 Avoir un droïde capable de réparer des machines est un luxe que de nombreux machinistes de la Bordure Extérieure ne peuvent pas se permettre. Un tel droïde est une bénédiction pour tout garage, car il accomplit des tâches avec la précision et la patience qui font défaut à la plupart des êtres organiques.
 
 **Compétences :** Informatique 1, Mécanique 2. Si le droïde est un sbire, ajoutez plutôt ces compétences à ses compétences de groupe.
 
-**Talents :** As de la Mécanique 1 (Supprime `sb` des tests de Mécanique), Réparations Solides 1 (lors de la réparation des dégâts de coque avec un test de Mécanique, répare un dégât de coque supplémentaire) . 
+**Talents :** As de la Mécanique 1 (Supprime <img src="../images/setback.png" width="16"> des tests de Mécanique), Réparations Solides 1 (lors de la réparation des dégâts de coque avec un test de Mécanique, répare un dégât de coque supplémentaire) . 
 
 #### Directives de naviguation
 L'astronavigation est difficile et fastidieuse pour la plupart des gens, et les risques d'échec sont stupéfiants. De nombreux pilotes préfèrent confier les rênes à une machine fiable.
 
 **Compétences :** Astrogation 2, Informatique 1, Pilotage (espace) 1. Si le droïde est un sbire, ajoutez plutôt ces compétences à ses compétences de groupe.
 
-**Talents :** Cartographie de la Galaxie 1 (Supprime `sb` des tests d'Astrogation; les tests d'Astrogation prennent 50% de temps en moins), Génie de l'Informatique 1 (les tâches liées à l'Informatique prennent 25% de temps en moins).
+**Talents :** Cartographie de la Galaxie 1 (Supprime <img src="../images/setback.png" width="16"> des tests d'Astrogation; les tests d'Astrogation prennent 50% de temps en moins), Génie de l'Informatique 1 (les tâches liées à l'Informatique prennent 25% de temps en moins).
 
 #### Directives de soin
 Les droïdes médicaux de pointe sont omniprésents dans les Mondes du Noyau, effectuant des opérations chirurgicales avec une compétence préternaturelle. Ceux que l'on trouve dans les mondes marginaux sont souvent fait-maison, mais peuvent toujours être très utiles à une colonie ou à un vaisseau.
@@ -131,7 +131,7 @@ Symboles | Effets
 <img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"><img src="../images/advantage.png" width="16"> ou <img src="../images/triomphe.png" width="16"> | **Programmation défensive :** Ajoute une nouvelle compétence de combat au rang 1 au droïde; si le droïde est un sbire, cette compétence s'ajoute aux compétences du groupe à la place.<br/>**Optimisation comportementale :** Ajoute 1 rang à n'importe quel talent que le droïde possède (cela ne peut être sélectionné qu'une seule fois).
 <img src="../images/triomphe.png" width="16"><img src="../images/triomphe.png" width="16"> | **Modèle de programme :** Crée un programme qui réduit de façon permanente la difficulté de programmer des droïdes avec cette directive par 1 (jusqu'à un minimum de **Simple [-]**)
 <img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Excentrique :** Ajoute un trait de personnalité négatif sélectionné aléatoirement dans la table des [traits de caractère](#traits-de-caractère) au droïde (cela ne peut être sélectionné qu'une seule fois).
-<img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Faible capacité d'écoute :** Ajoute `sb``sb` aux tests visant à donner des ordres au droïde (cela ne peut être sélectionné qu'une seule fois).
+<img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Faible capacité d'écoute :** Ajoute <img src="../images/setback.png" width="16"><img src="../images/setback.png" width="16"> aux tests visant à donner des ordres au droïde (cela ne peut être sélectionné qu'une seule fois).
 <img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"><img src="../images/threat.png" width="16"> ou <img src="../images/despair.png" width="16"> | **Manie négative :** Ajoute un trait de personnalité négatif à l'invention du MJ ou sélectionné dans la table des [traits de caractère](#traits-de-caractère) au droïde (cela ne peut être sélectionné qu'une seule fois).<br/>**Programmation limitée :** Le droïde améliore une fois la difficulté des tests de compétence pour lesquelles il ne dispose d'aucun rangs.
 <img src="../images/despair.png" width="16"><img src="../images/despair.png" width="16"> | **Défaut inconnu :** Ajoute au droïde un défaut négatif secret à l'invention du MJ ou choisi dans la table des [traits de caractère](#traits-de-caractère). Le MJ est responsable de comment - et si - ce trait de personnalité entre en jeu.
 
